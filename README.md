@@ -1,0 +1,2 @@
+# Resize-Create-IOS-widgets
+The aim is to make make an IOS iPhone app that the user will be able to download from the app store and use to resize or create custom sized widgets for example the google widget doesn't have a search bar like it does on android it only has a much larger 8 app size widget so in our app the user will be able to use the google app and our app to make a widget that only has the search bar and if we cant mange that then an app that will allow the user to resize the default widget   
